@@ -1,9 +1,3 @@
-Com certeza! Baseado em todos os arquivos que você enviou, criei um `README.md` completo e atrativo para o seu repositório no GitHub.
-
-Este modelo foi projetado para ser visualmente agradável e destacar suas habilidades de forma profissional. Você pode copiar e colar este conteúdo diretamente no arquivo `README.md` do seu repositório no GitHub.
-
----
-
 # 🚀 Portfólio de Projetos em Python para Análise de Dados
 
 Bem-vindo(a) ao meu portfólio de projetos de Análise e Ciência de Dados! Este repositório é uma demonstração prática das minhas habilidades no ciclo completo de um projeto de dados, desde a **coleta e limpeza** até a **análise, modelagem e visualização**.
